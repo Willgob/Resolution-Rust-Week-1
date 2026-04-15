@@ -1,0 +1,1 @@
+resolution.hackclub.com week 1
